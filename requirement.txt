@@ -1,0 +1,19 @@
+Existing
+Please check existing design in existing.jpg
+====
+
+Motivations
+We need to copy some things from 1.png and 3.png
+=====
+
+Requirement
+
+1. add new box on top, there are 4 right now. Need to add 5th. As done in 1.png, 5th one is Pending for approval
+2. Add icons in box as done in 1.png
+3. Add bootstrap tabs and put large width boxes inside the tabs as done in 1.png.
+4. comment box should be as done in 2.png
+
+Must work correctly in mobile device
+
+
+Existing html work has been done in dashboard.html page
